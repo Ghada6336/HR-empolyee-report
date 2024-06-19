@@ -1,6 +1,6 @@
 # HR-empolyee-report using SQL and Power BI
 
-![power bi dashboard]([url](https://app.powerbi.com/view?r=eyJrIjoiZmNjMmU4ZmItNTgxNy00YWM1LTk0MWItODZkNDU1MzMxNGM2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+![power bi dashboard]((https://app.powerbi.com/view?r=eyJrIjoiZmNjMmU4ZmItNTgxNy00YWM1LTk0MWItODZkNDU1MzMxNGM2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 
 
 ## Data Used
